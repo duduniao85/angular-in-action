@@ -1,0 +1,17 @@
+<h2>Hero Detail</h2>
+<h3><i>在FormGroup中定义多个FormControl对象，让视图与模板完全对应 </i></h3>
+<form [formGroup]="heroForm" novalidate>
+  <div class="form-group">
+    <label class="center-block">FirstName:
+      <input class="form-control" formControlName="firstname">
+    </label>
+    <label class="center-block">LastName:
+      <input class="form-control" formControlName="lastname">
+    </label>
+  </div>
+</form>
+
+<p>Form value: {{ heroForm.value | json }}</p>
+
+
+

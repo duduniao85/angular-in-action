@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AngularInAction
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# angular-in-action
+学习anguar2的练习项目同时后台使用KOA2封装MONGODB接口数据
+>>>>>>> 98d1a0067a6c32894ae47aeafc55e88d749128b9
